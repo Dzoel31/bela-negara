@@ -1,5 +1,5 @@
 body{
-    font : 12px Arial;
+    font-family: cursive;
     background-color: antiquewhite;
     background-image: none;
     color: black;
@@ -15,11 +15,13 @@ body{
 .header .judul{
     font-size: 32px;
     font-weight: bold;
+    text-align: center;
 }
 .header ul li{
     display: inline-block;
     margin-top: 24px;
     margin-bottom: 12px;
+    padding:10px;
 }
 .header a{
     text-decoration: none;
@@ -36,8 +38,17 @@ body{
     background-position: 0 0;
     border: solid rgb(0, 0, 0);
 }
+#about{
+    font-size: 18px;
+}
 .footer{
-    background-color: black;
+    color: white;
+    background-color:black;
+    padding: 10px;
+}
+#contact ul li{
+    display: inline-block;
+    font-size: 30px;
     padding: 10px;
 }
 .footer .copy{
