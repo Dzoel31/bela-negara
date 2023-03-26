@@ -1,8 +1,8 @@
 body{
     font-family:  cursive;
     text-align: justify;
-    background-color: antiquewhite;
-    background-image: none;
+    background-color: #B7BCB6;
+    background-image: url(./img/floral-line-art.jpg);
     color: black;
 }
 .container{
